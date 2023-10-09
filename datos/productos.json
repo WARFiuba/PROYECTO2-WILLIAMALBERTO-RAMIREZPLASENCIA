@@ -1,0 +1,86 @@
+[
+    {
+        "codigo" : "01",
+        "nombre" : "bar movible expandible con sillas",
+        "descripcion" : "Bar movible expandible personalizado con sillas hecho con angulo de 1´, madera a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico",
+        "medidas" : "cerrado 60 x 90 x 45, expandido 120 x 90 x 45",
+        "imagen" : "./img/bar movible con sillas.png"
+     },
+    {
+        "codigo" : "02",
+        "nombre" : "baul",
+        "descripcion" : "Baul hecho en hierro angulo de 1 1/4, madera a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico",
+        "medidas" : "120 x 70 x 50",
+        "imagen" : "./img/baul.png"
+    },
+    {
+        "codigo" : "03",
+        "nombre" : "cama",
+        "descripcion" : "Cama hecha en hierro 60/30, madera a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico",
+        "medidas" : "king size 2m x 2m",
+        "imagen" : "./img/cama.png"
+    },
+    {
+        "codigo" : "04",
+        "nombre" : "Centro de living",
+        "descripcion" : "hecho en hierro 50/30 con malla metalica tipo rombo, madera a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico",
+        "medidas" : "130 x 50 x 50",
+        "imagen" : "./img/centro de living.png"
+    },
+    {
+        "codigo" : "05",
+        "nombre" : "Escritorio",
+        "descripcion" : "Escritorio hecho en hierro 40/40 y 50/20, madera a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico",
+        "medidas" : "120 x 65 x 85",
+        "imagen" : "./img/escritorio.png"
+    },
+    {
+        "codigo" : "06",
+        "nombre" : "Isla de cosina",
+        "descripcion" : "Isla de cosina hecha con hierro 40/40, malla metalica tipo rombo y ruedas, madera a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico",        
+        "medidas" : "estructura 110 x 100 x 50 medidas de la madera 4 x 130 x 65",
+        "imagen" : "./img/isla de cosina.png"
+    },
+    {
+        "codigo" : "07",
+        "nombre" : "Litera",
+        "descripcion" : "Litera hecha con hierro 40/40 y malla metalica tipo rombo, madera a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico" ,
+        "medidas" : "50 x 200 x 100",
+        "imagen" : "./img/litera.png"
+    },
+    {
+        "codigo" : "08",
+        "nombre" : "Mesa",
+        "descripcion" : "Mesa hecha en hierro 80/40 y soporte de angulo de 1´, madera de 4cm de espesor a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico",
+        "medidas" : "80 x 120 x 200",
+        "imagen" : "./img/mesa.png"
+    },
+    {
+        "codigo" : "09",
+        "nombre" : "Modulo de living",
+        "descripcion" : "Modulo de living hecho en hierro 30/30, madera a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico",
+        "medidas" : "medidas de las torres 200 x 40 x 40 medidas del rack 60 x 120 x 40",
+        "imagen" : "./img/modulo de living.png"
+    },
+    {
+        "codigo" : "10",
+        "nombre" : "isla de cosina",
+        "descripcion" : "Isla de cosina mayormente hecha en madera con puertas corredizas hechas en angulo con chapa lisa, ,madera a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico",
+        "medidas" : "110 x 130 x 65",
+        "imagen" : "./img/isla de cosina2.png"
+    },
+    {
+        "codigo" : "11",
+        "nombre" : "Rack para tv",
+        "descripcion" : "Rack para tv hecho en hierro 40/40, madera a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico",
+        "medidas" : "55 x 200 x 45",
+        "imagen" : "./img/rack para tv.png"
+    },
+    {
+        "codigo" : "12",
+        "nombre" : "Silla",
+        "descripcion" : "Silla Hecha con soporte de hierro 50/30 y marco con angulo de 3/4, madera a eleccion pintada en barniz marino y hierro pintado en esmalte sintetico",
+        "medidas" : "100 x 78 x 62",
+        "imagen" : "./img/silla.png"
+    }
+]

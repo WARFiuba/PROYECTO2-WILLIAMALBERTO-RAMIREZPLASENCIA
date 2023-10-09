@@ -1,0 +1,13 @@
+*{
+    color: white;
+}
+
+.producto{
+    transition: all 0.3s;
+    z-index: 0;
+}
+
+.producto:hover{
+    transform: scale(1.15);
+    z-index: 1;
+}
